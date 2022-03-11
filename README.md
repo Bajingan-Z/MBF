@@ -1,7 +1,4 @@
-# MBF
-
-![Screenshot_20220311-202317_Termux](https://user-images.githubusercontent.com/95204908/157884547-f88f382f-0bfc-42e8-b56a-32eed578f416.jpg)
-
+# MBF (MANDA BRUTE FORCE) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 
 # CRACK FROM ID FOLLOWERS
 
