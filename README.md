@@ -6,6 +6,7 @@
 # INSTALL COMMAND
 `````````
 
+rm -rf BMF
 pkg update && pkg upgrade
 pkg install python
 pkg install git
